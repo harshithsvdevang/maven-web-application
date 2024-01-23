@@ -98,13 +98,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://172.31.1.120:8081/repository/Flipkart-release/</url>
+	      <url>http://http://13.235.94.31:9108/harshith%20SV/repository/facebook-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://172.31.1.120:8081/repository/flipkart-snapshot/</url>
+	      <url>http://13.235.94.31:9108/harshith%20SV/repository/facebook-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
